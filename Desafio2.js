@@ -5,7 +5,6 @@ let plazo=0
 let TNA=0
 let monto=0;
 let Credito=[];
-let p=0;
 let info=0;
 const boton = document.querySelector('#boton')
 const root = document.querySelector('#root')
